@@ -29,7 +29,7 @@ The problem is we can only pass the array of integer. To solve this problem, we 
 
 `"golang.org/x/exp/constraints"`
 
-install this package and then use in function
+install this package and then use in function.
 
 ```
 package main
